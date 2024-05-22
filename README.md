@@ -4,6 +4,8 @@ These are examples from the **Notable Gravity** blog post [AI for the Shell](htt
 > [!TIP]
 > Want to recreate the video examples?
 > Download [VHS](https://github.com/charmbracelet/vhs) from Charm to recreate the tapes!
+> 
+> Run them all with `.\build.ps1` 🏃‍♀️
 
 ## Deps 🧱
 
