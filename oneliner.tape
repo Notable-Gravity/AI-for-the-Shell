@@ -58,9 +58,9 @@
 Output oneliner.gif
 
 Set Shell "Bash"
-Set FontSize 32
+Set FontSize 38
 Set Width 1920
-Set Height 1080
+Set Height 1280
 
 Sleep 500ms
 Type "curl -L"

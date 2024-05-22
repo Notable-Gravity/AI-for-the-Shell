@@ -58,9 +58,9 @@
 Output rate-repo.gif
 
 Set Shell "powershell"
-Set FontSize 32
+Set FontSize 38
 Set Width 1920
-Set Height 1080
+Set Height 1280
 
 Type 'curl.exe -s "https://api.github.com/repos/in03/proxima" | mods "Summarise and rate this repo"'
 Enter

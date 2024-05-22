@@ -58,7 +58,7 @@
 Output pokemon.gif
 
 Set Shell "powershell"
-Set FontSize 36
+Set FontSize 38
 Set Width 1920
 Set Height 1080
 
