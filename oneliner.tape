@@ -60,7 +60,7 @@ Output oneliner.gif
 Set Shell "Bash"
 Set FontSize 38
 Set Width 1920
-Set Height 1280
+Set Height 1400
 
 Sleep 500ms
 Type "curl -L"
@@ -73,7 +73,7 @@ Type " | mods | bash"
 Sleep 2s
 Backspace@50ms 6
 Sleep 500ms
-Type ' "What does this install script do? And is it safe?"'
+Type ' "What does this do?" '
 Sleep 500ms
 Enter
 Sleep 30s
