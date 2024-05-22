@@ -73,7 +73,7 @@ Type " | mods | bash"
 Sleep 2s
 Backspace@50ms 6
 Sleep 500ms
-Type ' "What is this? Safe?"'
+Type ' "What does this install script do? And is it safe?"'
 Sleep 500ms
 Enter
-Sleep 20s
+Sleep 30s
