@@ -55,7 +55,7 @@
 #   Hide                            Hide the subsequent commands from the output
 #   Show                            Show the subsequent commands in the output
 
-Output pokemon.webm
+Output pokemon.gif
 
 Set Shell "powershell"
 Set FontSize 36

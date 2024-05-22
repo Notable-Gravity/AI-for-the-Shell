@@ -55,19 +55,14 @@
 #   Hide                            Hide the subsequent commands from the output
 #   Show                            Show the subsequent commands in the output
 
-Output tts.gif
+Output rate-repo.gif
 
 Set Shell "powershell"
-Set FontSize 38
+Set FontSize 32
 Set Width 1920
 Set Height 1080
 
-Type '"Quick!'
-Sleep 100ms 
-Type ' A limerick about Microsoft Windows TTS"'
-Type " | mods"
-Sleep 500ms 
-Type " | wsay"
-Sleep 500ms  Enter
+Type 'curl.exe -s "https://api.github.com/repos/in03/proxima" | mods "Summarise and rate this repo"'
+Enter
 
 Sleep 10s

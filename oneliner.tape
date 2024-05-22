@@ -55,7 +55,7 @@
 #   Hide                            Hide the subsequent commands from the output
 #   Show                            Show the subsequent commands in the output
 
-Output oneliner.webm
+Output oneliner.gif
 
 Set Shell "Bash"
 Set FontSize 32
