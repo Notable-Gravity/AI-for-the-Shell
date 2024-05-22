@@ -65,4 +65,4 @@ Set Height 1280
 Type 'curl.exe -s "https://api.github.com/repos/in03/proxima" | mods "Summarise and rate this repo"'
 Enter
 
-Sleep 10s
+Sleep 30s
